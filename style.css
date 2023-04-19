@@ -504,7 +504,7 @@ a {
   padding-bottom: 80px;
 }
 .landing .back {
-  background-image: url(../Images/bright-yellow-banner-with-halftone-effect/imagge.jpg);
+  background-image: url( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyF70g0zZnzEMJXFsV1Q9ZvTo33O_1IXT31A&usqp=CAU  );
   background-size: cover;
   background-attachment: fixed;
   width: 100%;
@@ -703,7 +703,7 @@ a {
 }
 /* Dark Page (Landing)*/
 .dark .landing .back {
-  background-image: url(../Images/technological-honeycomb-black-golden-background/DarkBackground.jpg);
+  background-image: url(  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyF70g0zZnzEMJXFsV1Q9ZvTo33O_1IXT31A&usqp=CAU   );
       background-size: cover;
       filter: brightness(50%) blur(2px);
       -webkit-filter: brightness(50%) blur(2px);
@@ -804,7 +804,7 @@ a {
   /* Start Products */
   .products {
   padding: 100px 50px;
-  background-image: url(../Images/bright-yellow-banner-with-halftone-effect/imagge-Blur.jpg);
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyF70g0zZnzEMJXFsV1Q9ZvTo33O_1IXT31A&usqp=CAU );
   background-size: cover;
 }
 .products .container {
@@ -871,7 +871,7 @@ a {
 }
 /* Dark */
       .dark .products {
-        background-image: url(../Images/Screenshot_1.png);
+        background-image: url(   https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqXeOWp27Kbw9DVYHfFQ1XRAlmluzy-7tJfQ&usqp=CAU  );
       }
       .dark .products .product {
         background-color: var(--dark-color);
@@ -985,7 +985,7 @@ a {
 /* Start Contact Us */
 .contact-us {
   padding-top: 100px;
-  background-image: url(../Images/bright-yellow-banner-with-halftone-effect/imagge-Blur.jpg);
+   background-image: url(     https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqXeOWp27Kbw9DVYHfFQ1XRAlmluzy-7tJfQ&usqp=CAU );
   background-size: cover;
 }
 .contact-us form {
@@ -1058,7 +1058,7 @@ a {
 }
     /* Dark */
     .dark .contact-us {
-      background-image: url(../Images/Screenshot_1.png);
+      background-image: url(    https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqXeOWp27Kbw9DVYHfFQ1XRAlmluzy-7tJfQ&usqp=CAU  );
     }
     .dark .contact-us label {
       color: var(--second-white);
